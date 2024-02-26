@@ -1,0 +1,36 @@
+{
+  "courses": [
+    { "name": "Math", "students": 30 },
+    { "name": "English", "students": 25 },
+    { "name": "Physics", "students": 20 },
+    { "name": "Chemistry", "students": 35 },
+    { "name": "Biology", "students": 40 },
+    { "name": "History", "students": 30 },
+    { "name": "Geography", "students": 25 },
+    { "name": "Art", "students": 20 },
+    { "name": "Music", "students": 15 },
+    { "name": "Physical Education", "students": 50 }
+  ],
+  "rooms": [
+    { "name": "Room 101", "capacity": 50 },
+    { "name": "Room 102", "capacity": 40 },
+    { "name": "Room 103", "capacity": 30 },
+    { "name": "Room 104", "capacity": 20 },
+    { "name": "Room 105", "capacity": 50 },
+    { "name": "Room 106", "capacity": 40 },
+    { "name": "Room 107", "capacity": 30 },
+    { "name": "Room 108", "capacity": 20 }
+  ],
+  "timeslots": [
+    { "day": "Monday", "time": "9:00" },
+    { "day": "Monday", "time": "10:00" },
+    { "day": "Tuesday", "time": "9:00" },
+    { "day": "Tuesday", "time": "10:00" },
+    { "day": "Wednesday", "time": "9:00" },
+    { "day": "Wednesday", "time": "10:00" },
+    { "day": "Thursday", "time": "9:00" },
+    { "day": "Thursday", "time": "10:00" },
+    { "day": "Friday", "time": "9:00" },
+    { "day": "Friday", "time": "10:00" }
+  ]
+}
