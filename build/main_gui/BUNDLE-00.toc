@@ -1,3 +1,0 @@
-([('main_gui',
-   '/Users/tommynguyen/Desktop/course_scheduling_software/dist/main_gui',
-   'EXECUTABLE')],)
